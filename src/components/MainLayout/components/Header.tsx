@@ -33,7 +33,7 @@ export default function Header() {
             underline="none"
             to="/"
           >
-            My Store (Anton F)
+            My Store 06.11.2024
           </Link>
         </Typography>
 
