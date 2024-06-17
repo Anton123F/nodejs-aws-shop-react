@@ -39,4 +39,4 @@ Runs linting and formatting for all files in `src` folder.
 
 ## Links
 S3:         http://rs-module-anthony-backet-s3.s3-website-us-east-1.amazonaws.com/
-CloudFront: https://d1cczzgk65is0y.cloudfront.net/
+CloudFront: https://d1om5uaqgq9t2t.cloudfront.net
